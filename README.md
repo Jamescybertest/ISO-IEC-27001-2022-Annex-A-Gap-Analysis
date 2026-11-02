@@ -36,10 +36,8 @@ A.8 Technological Controls
 4. **Risk Assessment:** Evaluate identified gaps based on likelihood and potential business impact.
 5. **Corrective Actions:** Recommend remediation measures and track their implementation.
 
-**Implementation Ratings:** Implemented | Partially Implemented | Not Implemented | Pending Verification | Not Applicable
+### **Implementation Ratings:** Implemented | Partially Implemented | Not Implemented | Pending Verification | Not Applicable
 
-1. **Risk Assessment:** Evaluate identified gaps based on likelihood and potential business impact.
-2. **Corrective Actions:** Recommend remediation measures and track their implementation.
 
 
 
