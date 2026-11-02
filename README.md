@@ -1,12 +1,9 @@
 # ISO-IEC-27001-2022-Annex-A-Gap-Analysis
 
 
-Organization: MapleTrust Financial Services Inc. (Fictional)
-
-Assessment: ISO/IEC 27001:2022 Annex A Gap Analysis
-
-Assessment Type: Internal Information security Control Gap Assessment
-
+Organization: MapleTrust Financial Services Inc. (Fictional)  
+Assessment: ISO/IEC 27001:2022 Annex A Gap Analysis  
+Assessment Type: Internal Information security Control Gap Assessment  
 Status: In Progress
 
 ## 1. Project Overview
@@ -33,13 +30,11 @@ A.8 Technological Controls
 
 ## Assessment Methodology
 
-**Control Review:**  Identify applicable Annex A controls and relevant internal policy requirements.
-**Evidence Evaluation:** Review simulated policies, procedures, and operational records to establish the current implementation status.
-**Gap Identification:** Compare existing controls against assessment criteria and document deficiencies.
-
-**Risk Assessment:** Evaluate identified gaps based on likelihood and potential business impact.
-
-**Corrective Actions:** Recommend remediation measures and track their implementation.
+1. **Control Review:**  Identify applicable Annex A controls and relevant internal policy requirements.  
+2. **Evidence Evaluation:** Review simulated policies, procedures, and operational records to establish the current implementation status.  
+3. **Gap Identification:** Compare existing controls against assessment criteria and document deficiencies.
+4. **Risk Assessment:** Evaluate identified gaps based on likelihood and potential business impact.
+5. **Corrective Actions:** Recommend remediation measures and track their implementation.
 
 **Implementation Ratings:** Implemented | Partially Implemented | Not Implemented | Pending Verification | Not Applicable
 
