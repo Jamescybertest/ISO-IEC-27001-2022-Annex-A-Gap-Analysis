@@ -11,9 +11,16 @@ Status: In Progress
 
 ## 1. Project Overview
 
-This project demonstrates the application of ISO/IEC 27001:2022 Annex A information security controls to assess the current information security posture of MapleTrust Financial Services Inc., a fictional Canadian financial services organization.
-The assessment focuses on evaluating control implementation, examining objective evidence, identifying control gaps, and developing corrective action recommendations to strengthen the organization's Information Security Management System (ISMS).
+This project demonstrates the application of ISO/IEC 27001:2022 to Conduct an ISO 27001 Annex A gap assessment for MapleTrust Financial Services, a fictional Canadian financial institution with 250 employees
+
+The objective is to evaluate existing information security controls, identify gaps against applicable requirements, and recommend corrective actions based on associated information security risks.
+
 This project assesses information security controls, identifies weaknesses, and prioritizes improvements based on the risks they present to the organization.
+
+.
+
+The objective is to evaluate existing information security controls, identify gaps against applicable requirements, and recommend corrective actions based on associated information security risks.
+
 ## 1. Assessment Scope
 
 The assessment covers information security controls supporting MapleTrust's financial services operations, including:
