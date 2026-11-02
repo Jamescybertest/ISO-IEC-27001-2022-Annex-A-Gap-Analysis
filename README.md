@@ -20,13 +20,10 @@ The assessment covers information security controls supporting MapleTrust's fina
 
 Controls are evaluated across the four Annex A themes:
 
-A.5 Organizational Controls
-
-A.6 People Controls
-
-A.7 Physical Controls
-
-A.8 Technological Controls
+1.  A.5 Organizational Controls  
+2.  A.6 People Controls  
+3.  A.7 Physical Controls  
+4.  A.8 Technological Controls
 
 ## Assessment Methodology
 
@@ -37,6 +34,23 @@ A.8 Technological Controls
 5. **Corrective Actions:** Recommend remediation measures and track their implementation.
 
 ### **Implementation Ratings:** Implemented | Partially Implemented | Not Implemented | Pending Verification | Not Applicable
+
+
+| Annex A Control | Status | Identified Gap | Recommended Action |
+|---|---|---|---|
+| A.5.1 — Policies for Information Security | Partially Implemented (Preliminary) | Security policy not reviewed for four years; no assigned policy owner | Assign policy ownership and establish periodic reviews |
+| A.6.3 — Information Security Awareness, Education and Training | Partially Implemented | Only 60% of employees completed mandatory annual training | Establish centralized completion tracking and formal follow up procedures |
+
+
+
+
+
+
+
+
+
+
+
 
 
 
