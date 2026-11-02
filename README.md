@@ -33,18 +33,22 @@ A.8 Technological Controls
 
 ## Assessment Methodology
 
-### Control Review:  Identify applicable Annex A controls and relevant internal policy requirements.
+</> Markdown
 
-### Evidence Evaluation: Review simulated policies, procedures, and operational records to establish the current implementation status.
+**Control Review:**  Identify applicable Annex A controls and relevant internal policy requirements.
 
-### Gap Identification: Compare existing controls against assessment criteria and document deficiencies.
+**Evidence Evaluation:** Review simulated policies, procedures, and operational records to establish the current implementation status.
 
-### Risk Assessment: Evaluate identified gaps based on likelihood and potential business impact.
+**Gap Identification:** Compare existing controls against assessment criteria and document deficiencies.
 
-### Corrective Actions: Recommend remediation measures and track their implementation.
+**Risk Assessment:** Evaluate identified gaps based on likelihood and potential business impact.
 
-### Implementation Ratings: Implemented | Partially Implemented | Not Implemented | Pending Verification | Not Applicable
+**Corrective Actions:** Recommend remediation measures and track their implementation.
 
+**Implementation Ratings:** Implemented | Partially Implemented | Not Implemented | Pending Verification | Not Applicable
+
+1. **Risk Assessment:** Evaluate identified gaps based on likelihood and potential business impact.
+2. **Corrective Actions:** Recommend remediation measures and track their implementation.
 
 
 
