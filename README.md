@@ -56,7 +56,24 @@ Critical: 16–25
 | A.5.1 – Security Policies | Outdated policies may lead to inconsistent security practices. | Medium (3) | High (4) | **12/25** | High | Assign policy owner and establish regular reviews. |
 | A.6.3 – Security Awareness | Employees may be more vulnerable to phishing attacks. | High (4) | High (4) | **16/25** | Critical | Implement training tracking and follow-up procedures. |
 
-*Note: Risk scores are preliminary estimates based on simulated scenarios for MapleTrust Financial Services.*
+## Conclusion
+
+This project demonstrates my ability to assess information security controls against ISO/IEC 27001:2022 Annex A, identify gaps, evaluate associated risks, and recommend corrective actions.
+
+I assessed two controls, identified two security gaps, and assigned preliminary risk scores based on likelihood and business impact.
+
+## Key Takeaways
+
+Through this project, I applied practical GRC skills in:
+
+- **Control Assessment:** Reviewing controls against ISO 27001 requirements.
+- **Risk Assessment:** Scoring and prioritizing identified risks.
+- **Corrective Action Planning:** Recommending risk based improvements.
+- **GRC Reporting:** Documenting findings, evidence, and recommendations.
+
+The key takeaway was learning how to connect control weaknesses to business risks and turn assessment findings into actionable recommendations.
+
+
 
 
 
