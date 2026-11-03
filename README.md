@@ -41,7 +41,22 @@ Controls are evaluated across the four Annex A themes:
 | A.5.1 — Policies for Information Security | Partially Implemented (Preliminary) | Security policy not reviewed for four years; no assigned policy owner | Assign policy ownership and establish periodic reviews |
 | A.6.3 — Information Security Awareness, Education and Training | Partially Implemented | Only 60% of employees completed mandatory annual training | Establish centralized completion tracking and formal follow up procedures |
 
+## Risk Assessment
 
+Risk Scoring Methodology
+Risk Score = Likelihood × Impact, Both likelihood and impact are rated on a scale of 1–5.  
+Risk Rating Scale:
+Low: 1–4
+Medium: 5–9
+High: 10–15
+Critical: 16–25
+
+| Control | Identified Risk | Likelihood | Impact | Risk Score | Risk Level | Recommended Action |
+|---|---|---|---|---|---|---|
+| A.5.1 – Security Policies | Outdated policies may lead to inconsistent security practices. | Medium (3) | High (4) | **12/25** | High | Assign policy owner and establish regular reviews. |
+| A.6.3 – Security Awareness | Employees may be more vulnerable to phishing attacks. | High (4) | High (4) | **16/25** | Critical | Implement training tracking and follow-up procedures. |
+
+*Note: Risk scores are preliminary estimates based on simulated scenarios for MapleTrust Financial Services.*
 
 
 
