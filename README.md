@@ -4,7 +4,6 @@
 Organization: MapleTrust Financial Services Inc. (Fictional)  
 Assessment: ISO/IEC 27001:2022 Annex A Gap Analysis  
 Assessment Type: Internal Information security Control Gap Assessment  
-Status: In Progress
 
 ## 1. Project Overview
 
