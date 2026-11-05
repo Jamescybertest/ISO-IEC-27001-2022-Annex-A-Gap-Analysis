@@ -53,7 +53,7 @@ Critical: 16–25
 | Control | Identified Risk | Likelihood | Impact | Risk Score | Risk Level | Recommended Action |
 |---|---|---|---|---|---|---|
 | A.5.1 – Security Policies | Outdated policies may lead to inconsistent security practices. | Medium (3) | High (4) | **12/25** | High | Assign policy owner and establish regular reviews. |
-| A.6.3 – Security Awareness | Employees may be more vulnerable to phishing attacks. | High (4) | High (4) | **16/25** | Critical | Implement training tracking and follow-up procedures. |
+| A.6.3 – Security Awareness | Employees may be more vulnerable to phishing attacks. | High (4) | High (4) | **16/25** | Critical | Implement training tracking and follow up procedures. |
 
 ## Conclusion
 
