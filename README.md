@@ -55,6 +55,27 @@ Critical: 16–25
 | A.5.1 – Security Policies | Outdated policies may lead to inconsistent security practices. | Medium (3) | High (4) | **12/25** | High | Assign policy owner and establish regular reviews. |
 | A.6.3 – Security Awareness | Employees may be more vulnerable to phishing attacks. | High (4) | High (4) | **16/25** | Critical | Implement training tracking and follow up procedures. |
 
+## Risk Score Justification
+
+| Control | Likelihood Justification | Impact Justification | Assessment Conclusion |
+|---|---|---|---|
+| **A.5.1  Security Policies** | **Medium (3/5):** The policy has not been reviewed for four years, and no owner is assigned. This creates an ongoing weakness in policy oversight. However, there is no evidence yet that this weakness has contributed to security incidents, so a higher likelihood rating is not justified. | **High (4/5):** MapleTrust handles sensitive financial and customer information. A serious incident involving inadequate security requirements could result in operational disruption, financial losses, and regulatory consequences. | **12/25: High (Initial).** The rating reflects an established policy weakness and potentially significant business consequences. |
+| **A.6.3  Security Awareness** | **High (4/5):** Training records show that 100 out of 250 employees (40%) have not completed mandatory security awareness training. This represents a substantial training gap that may increase exposure to phishing and social engineering. | **High (4/5):** A successful phishing incident involving customer information or financial systems could result in unauthorized access, recovery costs, and business disruption. | **16/25: Critical (Initial).** The rating reflects the large training gap and the potential consequences of a successful attack. |
+
+### Evidence and Assumptions
+
+**Evidence used:**
+- **A.5.1:** Policy last reviewed four years ago; no assigned owner.
+- **A.6.3:** Training completion records showing 150 of 250 employees completed training.
+
+**Assumptions:**
+- MapleTrust's financial services operations involve sensitive customer information.
+- Existing security controls may reduce the likelihood or impact of these risks.
+- Incident history and financial impact estimates have not yet been established.
+
+**Next Steps:** Review previous incidents, audit findings, existing security controls, and business impact criteria to confirm or adjust the initial risk scores.
+
+
 ## Conclusion
 
 This project demonstrates my ability to assess information security controls against ISO/IEC 27001:2022 Annex A, identify gaps, evaluate associated risks, and recommend corrective actions.
